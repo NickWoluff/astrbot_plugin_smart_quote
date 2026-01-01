@@ -1,0 +1,14 @@
+{
+  "quote_in_group": {
+    "type": "bool",
+    "description": "群聊回复是否引用原消息",
+    "hint": "开启后，机器人在群聊中回复会引用被回复的消息",
+    "default": true
+  },
+  "quote_in_private": {
+    "type": "bool",
+    "description": "私聊回复是否引用原消息",
+    "hint": "开启后，机器人在私聊中回复会引用被回复的消息",
+    "default": false
+  }
+}
