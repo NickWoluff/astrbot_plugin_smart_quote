@@ -25,7 +25,7 @@ class SmartQuotePlugin(Star):
         )
 
     @filter.on_decorating_result(priority=10)
-    async def control_quote(self, event: AstrMessageEvent):
+    async def control_quote(self, event: AstrMessageEvent, *args, **kwargs):
         result = event.get_result()
         if not result or not result.chain:
             return
