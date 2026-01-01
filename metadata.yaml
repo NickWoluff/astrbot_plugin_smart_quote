@@ -1,6 +1,6 @@
 name: astrbot_plugin_smart_quote
 display_name: 智能引用消息
-desc: 独立控制群聊与私聊时的回复是否引用发送人消息（请禁用“Astrbot-配置文件-平台配置-回复时引用发送人消息”）
+desc: 独立控制群聊与私聊时的回复是否引用发送人消息（请先禁用官方自带的“Astrbot-配置文件-平台配置-回复时引用发送人消息”）
 version: v1.0.0
 author: NickWoluff
 repo: https://github.com/NickWoluff/astrbot_plugin_smart_quote

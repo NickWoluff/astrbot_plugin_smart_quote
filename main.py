@@ -8,7 +8,7 @@ from astrbot.core.message.components import Reply
     "astrbot_plugin_smart_quote",
     "Nick",
     "群聊 / 私聊独立控制是否引用消息",
-    "1.0.0",
+    "1.1.1",
 )
 class SmartQuotePlugin(Star):
     def __init__(self, context: Context, config: AstrBotConfig):
