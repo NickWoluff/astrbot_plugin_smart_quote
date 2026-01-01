@@ -1,5 +1,4 @@
 # 智能引用信息
-<img src="logo.png" width="32" height="32" />
 
 [![License](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)](./LICENSE)
 
