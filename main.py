@@ -6,9 +6,9 @@ from astrbot.core.message.components import Reply
 
 @register(
     "astrbot_plugin_smart_quote",
-    "Nick",
-    "群聊 / 私聊独立控制是否引用消息",
-    "1.1.1",
+    "NickWoluff",
+    "独立控制群聊与私聊时的回复是否引用发送人消息（请先禁用官方自带的“Astrbot-配置文件-平台配置-回复时引用发送人消息”）",
+    "1.0.0",
 )
 class SmartQuotePlugin(Star):
     def __init__(self, context: Context, config: AstrBotConfig):
