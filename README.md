@@ -1,10 +1,7 @@
 # 智能引用信息
 <img src="logo.png" width="32" height="32" />
 
-[![Downloads](https://img.shields.io/github/downloads/NickWoluff/astrbot_plugin_smart_quote/total?style=flat-square&logo=github)](https://github.com/NickWoluff/astrbot_plugin_smart_quote/releases)
-[![Last Version](https://img.shields.io/github/release/NickWoluff/astrbot_plugin_smart_quote/all.svg?style=flat-square&color=brightgreen)](https://github.com/NickWoluff/astrbot_plugin_smart_quote/releases)
 [![License](https://img.shields.io/badge/license-AGPL--3.0-blue?style=flat-square)](./LICENSE)
-
 
 ## 简介
 
